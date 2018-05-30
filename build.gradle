@@ -4,7 +4,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-    compile 'com.chrisplus.rootmanager:library:2.0.5@aar'
+            compile 'com.chrisplus.rootmanager:library:2.0.5@aar'
 }
     }
 }
